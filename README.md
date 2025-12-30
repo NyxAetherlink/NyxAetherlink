@@ -1,16 +1,27 @@
-## Hi there 👋
+# Nyx| Bloodbyte 
 
-<!--
-**Nyx-Bloodbyte/Nyx-Bloodbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Security Researcher with a focus on OSINT, privacy-first design, and applied analysis. 
 
-Here are some ideas to get you started:
+## What you’ll find here
+- OSINT and security-adjacent utilities
+- Experiments using AI for analysis and automation
+- Privacy-conscious workflows and tooling
+- Occasional side projects or exploratory work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- AI-assisted OSINT research
+- Observing and testing model behavior and alignment
+- Building small tools with clear scope and boundaries
+- Improving my infrastructure, workflows, and documentation
+
+## Principles
+- Privacy by default
+- Clear intent and defined scope
+- Defensive and ethical use
+- Learning by building, not just reading
+
+## Notes
+Many projects here are works in progress and may change over time.  
+Thoughtful feedback and discussion are always welcome.
+
+
