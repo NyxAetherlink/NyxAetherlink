@@ -1,25 +1,22 @@
-# Nyx | Bloodbyte
-Independent InfoSec Researcher
-****OSINT, privacy-first design, and practical analysis.****
+# Nyx Aetherlink | Bloodbyte
 
-## What you'll find here
-- OSINT tools and security-related utilities
-- Experiments with AI for analysis and automation
-- Privacy-focused workflows and tooling
-- Occasional side projects and exploratory work
+## Systems Developer | Arch Linux | Rust & Go
 
-## Current focus
-- AI-assisted OSINT techniques
-- Testing model behavior and alignment limits
-- Building small, tightly scoped tools
-- Streamlining my own infrastructure, workflows, and docs
+Focusing on systems-level programming and digital infrastructure. Moving away from technical infrastructure and server management to build tools for a more resilient internet.
+Stack
 
-## Principles
-- Privacy by default
-- Clear intent and strict boundaries
-- Defensive and ethical use only
-- Learn by building, not just reading
+    * Languages: Rust, Go, JavaScript
 
-## Notes
-Most things here are works in progress and will evolve.  
-Feedback and thoughtful discussion are always welcome—feel free to open an issue.
+    * Environment: Arch Linux + NeoVim
+
+#### Interests
+
+    Systems: Building foundational, high-performance software.
+
+    Cyberpunk: High-tech, low-life storytelling and code.
+
+    Creative: Sound design and digital imagery.
+
+    The sky above the port was the color of television, tuned to a dead channel.
+
+![Learning Rust](https://img.shields.io/badge/Learning-Rust-%23white?style=for-the-badge&logo=rust&logoColor=%23E43716&labelColor=%23000000)
