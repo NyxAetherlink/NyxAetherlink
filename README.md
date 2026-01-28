@@ -1,4 +1,4 @@
-# Nyx Aetherlink | Bloodbyte
+# Nyx Aetherlink | Bloodbyte Studios
 
 ### Systems Developer | AI Researcher | World Builder/GameDev
 
