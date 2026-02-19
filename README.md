@@ -1,9 +1,34 @@
-# Nyx Aetherlink | Bloodbyte Studios
+# Nyx Aetherlink | VoidTrace Security
 
-### Systems Developer | AI Researcher | World Builder/GameDev
+### Offensive Security · Red Team Tooling · Adversary Emulation
 
-Building system-level tools, AI-assisted workflows, and experimental software with a focus on performance, security, and clean design.
+I build offensive security tools and simulate the threat actors that are actively hitting organizations right now — ransomware operators, initial access brokers, and the TTPs that keep burning companies to the ground.
 
-Looking to collaborate with other like-minded individuauls! 
+Founder of [**VoidTrace Security**](https://voidtracesec.com) — an adversary simulation operation, not a consultancy brand.
 
-![Learning Rust](https://img.shields.io/badge/Learning-Rust-%23white?style=for-the-badge&logo=rust&logoColor=%23E43716&labelColor=%23000000)![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=%23000000)
+---
+
+### 🔧 What I'm Building
+
+- **Offensive security tooling** in Go — purpose-built for red team ops
+- **Adversary emulation** modeled on real-world threat actor behavior
+- **OSINT & OPSEC tooling** for reconnaissance and operational security
+
+### 🎯 Focus Areas
+
+`Red Teaming` · `Adversary Emulation` · `Penetration Testing` · `OSINT` · `OPSEC` · `Security Tool Development`
+
+### ⚙️ Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+
+### 🌐 Links
+
+[![Website](https://img.shields.io/badge/voidtracesec.com-000000?style=flat&logo=firefox&logoColor=white)](https://voidtracesec.com)
+
+---
+
+<sub>The goal isn't to check boxes. It's to become the threat your defenses weren't built for.</sub>
