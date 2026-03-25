@@ -8,8 +8,7 @@ Not a resume. Just work.
 
 ### 🛡️ Security
 AI Security Researcher and founder of [**VoidTrace Security**](https://voidtracesec.com).  
-I focus on threat hunting, threat intelligence, OSINT, and AI-driven phishing engagements.  
-I build the tools I wish existed — then open source them.
+I focus on threat hunting, threat intelligence, OSINT, and AI-driven phishing engagements. 
 
 - **Threat hunting & intelligence** — tracking adversary behavior and TTPs
 - **OSINT & OPSEC tooling** in Go — built for real operational use
@@ -21,7 +20,7 @@ I build the tools I wish existed — then open source them.
 ---
 
 ### 📖 Obscura Nocturna
-Gothic horror narrative project. Dark fiction, built in the void.
+Gothic horror narrative project. Dark fiction short stories.
 
 First story: **[The Vampire Boy](https://vampireboy.bloodbyte.net/)** — live now.
 
@@ -59,8 +58,4 @@ Music as ritual. First single out now.
 ---
 
 ### 🌐 Links
-[![VoidTrace](https://img.shields.io/badge/voidtracesec.com-000000?style=flat&logo=firefox&logoColor=white)](https://voidtracesec.com)
-
----
-
-<sub>Hunter. Builder. Artist. All three at once, always.</sub>
+[![VoidTrace](https://img.shields.io/badge/voidtracesec.net-000000?style=flat&logo=firefox&logoColor=white)](https://www.voidtracesec.net)
