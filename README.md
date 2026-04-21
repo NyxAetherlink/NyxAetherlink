@@ -6,7 +6,7 @@ Not a resume. Just work.
 ---
 ### 🛡️ Security
 AI Security Researcher and founder of [**VoidTrace Security**](https://voidtracesec.com).  
-I focus on threat hunting, threat intelligence, OSINT, and AI-driven phishing engagements. 
+I focus on threat hunting, OSINT, and AI-driven phishing engagements. 
 - **Threat hunting & intelligence** — tracking adversary behavior and TTPs
 - **OSINT & OPSEC tooling** in Go — built for real operational use
 - **AI phishing engagements** — next-gen social engineering research
@@ -21,10 +21,6 @@ First story: **[The Vampire Boy](https://vampireboy.bloodbyte.net/)** — live n
 Founder of **DEADPXL** — indie game studio focused on cyberpunk and retro pixel art.
 Currently in early development: **MegaStructure Zero** *(working title)*  
 A cyberpunk world built in pixels. More details soon.
----
-### 🎵 Music
-**[Vampiric Moonlight](https://vampiricmoonlight.bandcamp.com/track/endless-night)** — cosmic symphonic black metal.  
-Music as ritual. First single out now.
 ---
 ### ⚙️ Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
