@@ -1,5 +1,5 @@
 # Nyx Aetherlink
-### Builder · Security Researcher · Artist
+### Developer · Security Researcher · Artist · Musician
 
 I ship security tools, write horror, make music, and build games.  
 Not a resume. Just work.
@@ -7,20 +7,20 @@ Not a resume. Just work.
 ---
 
 ### 🛡️ Security
-Founder of [**VoidTrace Security**](https://voidtracesec.com) — *Precision in the dark.*  
-AI Security Researcher. Focus areas: threat hunting, OSINT, and OPSEC tooling built in Go.
+Founder of [**VoidTrace Security**](https://www.voidtracesec.com) — *We think like the threat*  
+AI Security Researcher. Focus areas: threat hunting, OSINT, and OPSEC.
 
 - **Threat hunting & intelligence** — adversary behavior and TTPs
-- **OSINT & OPSEC tooling** in Go — built for real operational use
+- **OSINT & OPSEC tooling** — built for real operational use
 - **AI security research** — agentic systems, model behavior, abuse patterns
-- **Bug bounty** — active on Intigriti
+- **Bug bounty** — active on Hackerone Intigriti
 
 `Threat Intelligence` · `Threat Hunting` · `OSINT` · `OPSEC` · `AI Security` · `Bug Bounty`
 
 ---
 
 ### 🎵 Music
-25+ years of production. Three active projects:
+20+ years of production. Three active projects:
 
 - **Aetherlink** — flagship project
 - **Vampiric Moonlight** — cosmic symphonic black metal
