@@ -60,4 +60,4 @@ Solo indie studio. Cyberpunk and retro pixel aesthetics.
 ---
 
 ### 🌐 Links
-[![VoidTrace](https://img.shields.io/badge/voidtracesec.com-000000?style=flat&logo=firefox&logoColor=white)](https://voidtracesec.com)
+[![VoidTrace](https://img.shields.io/badge/voidtracesec.com-000000?style=flat&logo=firefox&logoColor=white)](https://www.voidtracesec.com)
