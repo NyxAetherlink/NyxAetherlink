@@ -1,89 +1,67 @@
-```text
 ┌──────────────────────────────────────────────────────────────────────────┐
-│  OPERATOR: Nick Kronner (aka Nyx Aetherlink)                             │
-│  ROLES:    Full-Stack Developer • Security Analyst • AI Engineer         │
-│  DIRECTIVE: Build autonomous engines. Ship clean code. Secure the dark.  │
-│  STATUS:   ACTIVE // Decrypting the matrix 24/7                          │
+│  OPERATOR: Nick Kronner (Nyx Aetherlink)                                 │
+│  FOCUS:    Offensive AI Research • Threat Hunting • Autonomous Systems   │
+│  DIRECTIVE: Build autonomous engines. Secure the dark. Ship clean code.  │
 └──────────────────────────────────────────────────────────────────────────┘
-```
 
-# 🌌 NYX AETHERLINK
+## Professional Identity
 
-> I build autonomous agent networks, write dark gothic horror, engineer electronic and black metal soundscapes, and audit AI systems.
+Founder of **VoidTrace Security**. Operating at the intersection of offensive cybersecurity, autonomous AI architectures, and low-level systems engineering. Specializing in threat intelligence, agentic state machines, and model abliteration.
 
----
+## Technical Focus
 
-### 🛡️ SEC_OPS // VoidTrace Security
-Founder of [**VoidTrace Security**](https://www.voidtracesec.com) — *Precision in the dark.*
-Specializing in offensive AI research, threat hunting, and tactical OPSEC.
+* **Offensive Security & Threat Intel** — Adversary TTP modeling, automated threat hunting pipelines, OSINT tooling, and AI red teaming (prompt injection, agentic guardrail bypass, model weight auditing).
+* **Autonomous AI Systems** — Multi-agent orchestration frameworks, stateful memory retrieval architectures, low-level model abliteration, and local generative synthesis.
+* **Systems & Network Infrastructure** — Custom Wayland/Sway desktop environments, kernel-level sandboxing, containerized security topologies, and zero-trust networking.
 
-*   **Threat Intel & Hunting** — Deep-dive analysis of adversary behaviors, tracking indicators, and modeling advanced TTPs.
-*   **OSINT & OPSEC Tooling** — Developing custom network scraping, scanning, and operational security utilities.
-*   **AI Red Teaming** — Identifying prompt injection vulnerabilities, breaking agentic state engines, and auditing LLM guardrails.
-*   **Bug Bounty** — Active hunter on HackerOne & Intigriti.
+## Tech Stack
 
-`Threat Intelligence` · `Threat Hunting` · `OSINT` · `OPSEC` · `AI Security` · `Bug Bounty`
+### Languages & Runtime
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=%23aea1d3)
+![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=%2364ffda)
+![Go](https://img.shields.io/badge/go-%23000000.svg?style=for-the-badge&logo=go&logoColor=%23aea1d3)
+![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=%2364ffda)
+![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%23aea1d3)
+![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=%2364ffda)
+![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23aea1d3)
+![Lua](https://img.shields.io/badge/lua-%23000000.svg?style=for-the-badge&logo=lua&logoColor=%2364ffda)
+![Bash](https://img.shields.io/badge/bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=%23aea1d3)
+![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=%2364ffda)
 
----
+### AI & Agentic Architectures
+![PyTorch](https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&logo=pytorch&logoColor=%23aea1d3)
+![Hugging Face](https://img.shields.io/badge/hugging_face-%23000000.svg?style=for-the-badge&logo=huggingface&logoColor=%2364ffda)
+![ComfyUI](https://img.shields.io/badge/comfyui-%23000000.svg?style=for-the-badge&logo=nvidia&logoColor=%23aea1d3)
+![Stable Diffusion](https://img.shields.io/badge/stable_diffusion-%23000000.svg?style=for-the-badge&logo=stabilityai&logoColor=%2364ffda)
+![vLLM](https://img.shields.io/badge/vllm-%23000000.svg?style=for-the-badge&logo=openai&logoColor=%23aea1d3)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=%2364ffda)
+![Open WebUI](https://img.shields.io/badge/open_webui-%23000000.svg?style=for-the-badge&logo=openai&logoColor=%23aea1d3)
+![DSPy](https://img.shields.io/badge/dspy-%23000000.svg?style=for-the-badge&logo=python&logoColor=%2364ffda)
 
-### 🧠 NEURAL_GRID // AI
-Operating on the absolute frontier of local machine intelligence and cognitive automation.
+### Security & Offensive OSINT
+![Burp Suite](https://img.shields.io/badge/burp_suite-%23000000.svg?style=for-the-badge&logo=burpsuite&logoColor=%23aea1d3)
+![Wireshark](https://img.shields.io/badge/wireshark-%23000000.svg?style=for-the-badge&logo=wireshark&logoColor=%2364ffda)
+![Nmap](https://img.shields.io/badge/nmap-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=%23aea1d3)
+![Metasploit](https://img.shields.io/badge/metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=%2364ffda)
+![Semgrep](https://img.shields.io/badge/semgrep-%23000000.svg?style=for-the-badge&logo=semgrep&logoColor=%23aea1d3)
+![Tor](https://img.shields.io/badge/tor_onion-%23000000.svg?style=for-the-badge&logo=tor-project&logoColor=%2364ffda)
 
-*   **Agentic Orchestration** — Architecting multi-agent frameworks with custom tool bindings, state management, and memory systems.
-*   **Model Abliteration** — Modifying model weights and editing safety layers at a low level to disable censorship for local research.
-*   **Local Image Synthesis** — Running high-performance Stable Diffusion and ComfyUI workflows locally.
-
----
-
-### 🎵 Audio & Sound Design
-20+ years of sound engineering, preset synthesis, and dark sonic design.
-
-*   **Aetherlink** — Flagship darksynth, industrial, and electronic project.
-*   **Vampiric Moonlight** — Cosmic symphonic black metal (active for 25+ years).
-*   **Sub-Bass & DnB** — High-energy drum & bass soundscapes.
-*   *Releasing sound design packs and synth presets on Gumroad & itch.io soon.*
-
----
-
-### 📖 OBSCURA_NOCTURNA // Narrative
-Gothic horror fiction, dark atmosphere, and lore preservation.
-*   **The Vampire Boy** — Read online at [vampireboy.bloodbyte.net](https://vampireboy.bloodbyte.net/) (Kindle release pending).
-
----
-
-### 🎮 CYBRPXL // Indie Game Development
-Solo game development and browser-based workspace utilities.
-*   **MegaPlex Zero** — Cyberpunk terminal workspace chrome extension (active development).
-
----
-
-### ⚙️ THE_STACK // Systems & Tech
-
-#### Core Languages
-![Go](https://img.shields.io/badge/Go-8ec07c?style=for-the-badge&logo=go&logoColor=1d2021)
-![Python](https://img.shields.io/badge/Python-fabd2f?style=for-the-badge&logo=python&logoColor=1d2021)
-![Rust](https://img.shields.io/badge/Rust-fe8019?style=for-the-badge&logo=rust&logoColor=1d2021)
-![C](https://img.shields.io/badge/C-a89984?style=for-the-badge&logo=c&logoColor=1d2021)
-![TypeScript](https://img.shields.io/badge/TypeScript-458588?style=for-the-badge&logo=typescript&logoColor=fbf1c7)
-![JavaScript](https://img.shields.io/badge/JavaScript-d3869b?style=for-the-badge&logo=javascript&logoColor=1d2021)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5_CSS3-ea6962?style=for-the-badge&logo=html5&logoColor=1d2021)
-
-#### AI & Agentics
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-d3869b?style=for-the-badge&logo=stabilityai&logoColor=1d2021)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-fe8019?style=for-the-badge&logo=nvidia&logoColor=1d2021)
-![Open WebUI](https://img.shields.io/badge/Open_WebUI-458588?style=for-the-badge&logo=openai&logoColor=fbf1c7)
-
-#### Infrastructure & Tools
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-458588?style=for-the-badge&logo=archlinux&logoColor=fbf1c7)
-![Podman](https://img.shields.io/badge/Podman-ea6962?style=for-the-badge&logo=podman&logoColor=1d2021)
-![Docker](https://img.shields.io/badge/Docker-83a598?style=for-the-badge&logo=docker&logoColor=1d2021)
-![Tailscale](https://img.shields.io/badge/Tailscale-fabd2f?style=for-the-badge&logo=tailscale&logoColor=1d2021)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-fe8019?style=for-the-badge&logo=cloudflare&logoColor=1d2021)
-![Neovim](https://img.shields.io/badge/Neovim-b8bb26?style=for-the-badge&logo=neovim&logoColor=1d2021)
-![Ghostty](https://img.shields.io/badge/Ghostty-b8bb26?style=for-the-badge&logo=ghost&logoColor=1d2021)
-![Tmux](https://img.shields.io/badge/Tmux-8ec07c?style=for-the-badge&logo=tmux&logoColor=1d2021)
+### Systems & Cloud Infrastructure
+![Arch Linux](https://img.shields.io/badge/arch_linux-%23000000.svg?style=for-the-badge&logo=archlinux&logoColor=%23aea1d3)
+![Linux Kernel](https://img.shields.io/badge/linux_kernel-%23000000.svg?style=for-the-badge&logo=linux&logoColor=%2364ffda)
+![Wayland / Sway](https://img.shields.io/badge/wayland_%2F_sway-%23000000.svg?style=for-the-badge&logo=wayland&logoColor=%23aea1d3)
+![Podman](https://img.shields.io/badge/podman-%23000000.svg?style=for-the-badge&logo=podman&logoColor=%2364ffda)
+![Docker](https://img.shields.io/badge/docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=%23aea1d3)
+![KVM / Libvirt](https://img.shields.io/badge/kvm_%2F_libvirt-%23000000.svg?style=for-the-badge&logo=redhat&logoColor=%2364ffda)
+![Tailscale](https://img.shields.io/badge/tailscale-%23000000.svg?style=for-the-badge&logo=tailscale&logoColor=%23aea1d3)
+![Cloudflare](https://img.shields.io/badge/cloudflare-%23000000.svg?style=for-the-badge&logo=cloudflare&logoColor=%2364ffda)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=%23aea1d3)
+![DuckDB](https://img.shields.io/badge/duckdb-%23000000.svg?style=for-the-badge&logo=duckdb&logoColor=%2364ffda)
+![Neovim](https://img.shields.io/badge/neovim-%23000000.svg?style=for-the-badge&logo=neovim&logoColor=%23aea1d3)
+![Ghostty](https://img.shields.io/badge/ghostty-%23000000.svg?style=for-the-badge&logo=ghost&logoColor=%2364ffda)
+![Tmux](https://img.shields.io/badge/tmux-%23000000.svg?style=for-the-badge&logo=tmux&logoColor=%23aea1d3)
+![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%2364ffda)
 
 ---
 
-### 🌐 CONNECT // Links
-[![VoidTrace](https://img.shields.io/badge/voidtracesec.com-8ec07c?style=for-the-badge&logo=firefox&logoColor=1d2021)](https://www.voidtracesec.com)
+Working in public. Security and research inquiries: [voidtracesec.com](https://www.voidtracesec.com)
