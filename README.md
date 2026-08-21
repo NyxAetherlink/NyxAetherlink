@@ -1,3 +1,3 @@
-AI Systems Engineer & Security Researcher
+**AI Systems Engineer & Security Researcher**
 
-I build, secure, automate, and troubleshoot complex technical systems.
+_Building, securing, automating, and troubleshooting complex technical systems by day; developing agentic AI systems by night_
